@@ -9,7 +9,7 @@ async functions.
 
 ## Requirements
 
-- Node.js 20 or newer (the client uses undici and cheerio)
+- NPM: undici and cheerio
 
 ## Quick start
 
