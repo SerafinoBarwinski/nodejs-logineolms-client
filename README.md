@@ -9,7 +9,7 @@ async functions.
 
 ## Requirements
 
-- NPM: undici and cheerio
+- NPM: undici, cheerio and validator
 
 ## Quick start
 
