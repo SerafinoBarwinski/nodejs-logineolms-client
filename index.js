@@ -85,7 +85,7 @@ function configure({
             }
         });
     }
-    if (!config.shutup) console.log("The Library has been successfully configured.")
+    if (!config.shutup) console.log("The LogineoNRW Library has been successfully configured.")
     return true;
 }
 
